@@ -17,7 +17,7 @@ print("HELLO WORLD")
 - item 2
 - item 3
   
-- [ ] finish this task NOW
+- [x] finish this task NOW
 - [ ] finish this too
 - [ ] also this
 - [ ] GET THIS DONE
